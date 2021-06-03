@@ -1,8 +1,8 @@
 # PicoCTF-Tryout
 
- ## Task Update
-| Task | Status |
-| --- | --- |
+ ## picoCTF
+| Category |
+| --- | 
 | <a href="https://github.com/5andeepNambiar/PicoCTF-Tryout/tree/main/Cryptography">Cryptography</a>
 | <a href="https://github.com/5andeepNambiar/PicoCTF-Tryout/tree/main/Forensics">Forensics</a> 
 | <a href="https://github.com/5andeepNambiar/PicoCTF-Tryout/tree/main/General%20Skills">General Skills</a>
